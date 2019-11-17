@@ -1,4 +1,4 @@
-// LED pin number
+// LED pin numbe
 // 13 pin - user LED of Z-Uno board
 #define switch1 9
 #define switch2 10
